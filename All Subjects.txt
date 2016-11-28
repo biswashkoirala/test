@@ -38,3 +38,4 @@ Elective I (Data mining)
 8
 Elective II (Big Data)
 Elective III (Multimedia)
+Intenet & Intranet (I&I)
