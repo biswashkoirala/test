@@ -1,0 +1,28 @@
+3
+Electromagnetics
+Electronic Device and Circuit
+Electrical Circuit Theory
+Math
+Digital Logic
+Theory of Computation
+Object Oriented Programming
+
+4
+Numerical methods   
+Data Structure and Algorithm
+Instrumentation I
+Microprocessor
+Discrete Structure/Mathematics
+Electrical Machine  
+Application Mathematics
+
+5
+English
+Instrumentation II
+Computer Graphics
+Software Engineering
+Computer Architecture and Organization
+Probability and Statistics
+Data Communication
+
+6
