@@ -4,7 +4,7 @@
 #include <conio.h>
 
 void main()
-int a=5, b=6;
-printf("%d",a+b);
-getch();
+
+printf("hello world from bex b");
+getch()
 
